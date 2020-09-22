@@ -1,0 +1,66 @@
+body {
+     text-align: center;
+        margin: 0;
+    
+    
+}
+
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+}
+#WELCOME{
+    padding-left:350px;
+    font-size:18;
+    text-align:center;
+     background: linear-gradient( blue, aqua);
+}
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+    color:black;
+   
+}
+
+#biography {
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.line {
+    height: 10px;
+    background-color: darkblue;
+    width: 70px;
+    margin: 10px auto;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
